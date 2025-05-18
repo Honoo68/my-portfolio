@@ -3431,7 +3431,7 @@ input, select, textarea {
 	.image-with-description img {
 	width: 300px;
 	height: auto;
-	border-radius: 8px;
+	/* border-radius: 8px; */
 	box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 	}
 
